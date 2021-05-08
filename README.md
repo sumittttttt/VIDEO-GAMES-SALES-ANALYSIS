@@ -1,2 +1,3 @@
 # video-games-sales
-data analysis 
+Data analysis of video game sales.
+#### k
